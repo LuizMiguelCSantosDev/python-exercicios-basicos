@@ -1,0 +1,17 @@
+n1= int(input('Digite um número: '))
+n2= 0
+print ('A tabuada deste número é: ')
+
+print('-' * 12) 
+print('{} X  0 = {}'.format(n1, n1 *n2))
+print('{} X  1 = {}'.format(n1, n1 * (n2+1)))
+print('{} X  2 = {}'.format(n1, n1 * (n2+2)))
+print('{} X  3 = {}'.format(n1, n1 * (n2+3)))
+print('{} X  4 = {}'.format(n1, n1 * (n2+4)))
+print('{} X  5 = {}'.format(n1, n1 * (n2+5)))
+print('{} X  6 = {}'.format(n1, n1 * (n2+6)))
+print('{} X  7 = {}'.format(n1, n1 * (n2+7)))
+print('{} X  8 = {}'.format(n1, n1 * (n2+8)))
+print('{} X  9 = {}'.format(n1, n1 * (n2+9)))
+print('{} X 10 = {}'.format(n1, n1 * (n2+10)))
+print('-' * 12)
