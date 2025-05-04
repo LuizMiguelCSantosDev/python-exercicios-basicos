@@ -13,8 +13,7 @@ Este repositório contém exercícios práticos desenvolvidos durante o curso gr
 
 ## 📚 Objetivo
 
-Consolidar os conhecimentos adquiridos durante o curso, através da prática com exercícios propostos a cada módulo.  
-Este repositório serve tanto como registro do aprendizado quanto como material de consulta para iniciantes.
+Consolidar os conhecimentos adquiridos durante o curso, através da prática com exercícios propostos a cada módulo. Este repositório serve tanto como registro do aprendizado quanto como material de consulta para iniciantes.
 
 ---
 
